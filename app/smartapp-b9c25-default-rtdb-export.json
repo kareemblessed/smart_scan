@@ -1,0 +1,11 @@
+{
+  "products": {
+    "books": {
+      "a4 96": {
+        "barcode": 6161101536769,
+        "name": "Kasuku Exercise Book. 96 pages",
+        "price": "Ksh 235"
+      }
+    }
+  }
+}
